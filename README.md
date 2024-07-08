@@ -1,4 +1,6 @@
-# Data Science projects
+# Proyectos Data Scientist
 
-In this repository you will find my data science projects that I'm currently working on to practise.
-
+En este repositorio se encontraran mis proyectos de Data Science. 
+- En la carpeta `datasets` se encuentran los datasets utilizados
+- El archivo `Pre-Entrega-TorresPaola.pdf` muestra una breve presentación con las gráficas principales de lo analizado
+- El archivo `Proyecto_Final_TorresPaola.ipynb` muestra el análisis realizado en un jupyter-notebook. 
